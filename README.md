@@ -2,7 +2,7 @@
 
 
 - 🔭 Procuro estágio na área de computação
-- 🌱 Cursando meu quarto semestre de Ciência da computação - UNIP/Noturono
+- 🌱 Cursando meu quinto semestre de Ciência da computação - UNIP/Noturono
 - 😄 Pronomes: ele/dele
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-grasson-de-brito-b13465236/)
