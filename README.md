@@ -1,9 +1,9 @@
 ## Oi! Me chamo João Pedro Grasson 👋
 
 
-- 🔭 Procuro estágio na área de computação
-- 🌱 Cursando meu quinto semestre de Ciência da computação - UNIP/Noturono
-- 😄 Pronomes: ele/dele
+- 🔭 Atualmente Trabalhando como Analista de Processos SAP
+- 🌱 Cursando meu quinto oitavo de Ciência da computação - UNIP/Noturono
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-grasson-de-brito-b13465236/)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp.grasson/)
@@ -19,6 +19,7 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  
+  <img align="center" alt="ABAP" src="https://img.shields.io/badge/ABAP-0FA153?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </div>
   
