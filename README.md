@@ -15,7 +15,7 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style= "display: inline_block"><br/>
-     <img align="center" alt="SAP ERP" src="https://img.shields.io/badge/SAP_ERP-0FA153?style=for-the-badge&logo=sap&logoColor=white"/>
+     <img align="center" alt="SAP ERP" src="https://img.shields.io/badge/SAP_ERP-008FD5?style=for-the-badge&logo=sap&logoColor=white"/>
      <img align="center" alt="ABAP" src="https://img.shields.io/badge/ABAP-0FA153?style=for-the-badge&logo=sap&logoColor=white"/>
   </div>
   
