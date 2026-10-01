@@ -15,7 +15,7 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style= "display: inline_block"><br/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img align="center" alt="ABAP" src="https://img.shields.io/badge/ABAP-0FA153?style=for-the-badge&logo=sap&logoColor=white"/><img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+     <img align="center" alt="SAP ERP" src="https://img.shields.io/badge/SAP_ERP-0FA153?style=for-the-badge&logo=sap&logoColor=white"/>
+     <img align="center" alt="ABAP" src="https://img.shields.io/badge/ABAP-0FA153?style=for-the-badge&logo=sap&logoColor=white"/>
   </div>
   
