@@ -1,4 +1,4 @@
-## Oi! Me chamo João Pedro Grasson 👋
+## Oi! Me chamo João Pedro Grasson de Brito 👋
 
 
 - 🔭 Atualmente Trabalhando como Analista de Processos SAP
@@ -7,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-grasson-de-brito-b13465236/)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp.grasson/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/grasson)
+
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGrasson&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGrasson&layout=compact)](https://github.com/JoaoGrasson/github-readme-stats)
